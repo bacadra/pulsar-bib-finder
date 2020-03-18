@@ -15,5 +15,11 @@
   },
   "homepage": "https://github.com/bacadra/bib-finder",
   "url": "https://github.com/bacadra/bib-finder",
-  "repository": "https://github.com/bacadra/bib-finder"
+  "repository": "https://github.com/bacadra/bib-finder",
+  "keywords": [
+    "python",
+    "bacadra",
+    "bib",
+    "find"
+  ]
 }
