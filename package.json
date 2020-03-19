@@ -1,7 +1,8 @@
 {
   "name": "bib-finder",
-  "version": "0.1.1",
+  "version": "0.0.0",
   "main": "./lib/bib-finder",
+  "description": "Fuzzy finder of BibTeX entry for Atom IDE",
   "activationCommands": {
     "atom-text-editor": [
       "bib-finder:toggle"
