@@ -1,13 +1,12 @@
 # bib-finder
 
-in progress...
+The package help to find and insert bib-entry key to document. Multiple .bib files can be used. The fuzzy-finder is used to look up entry.
 
-# TODO
+# Knowed issue
 
-* bib parser do not work correctly if there is only one entry in file
-* bib parser can not read entry if value is multiline
-* increase the width of window or print multiline
-* spaghetti code...
+* bib-parser (@hygull/bibtex) do not work correctly if there is only one entry in file.
+* bib-parser (@hygull/bibtex) can not read entry if parameter is multiline.
+* increase the width of window or print multi line.
 
 ## See another bacadra packages...
 
