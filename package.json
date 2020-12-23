@@ -1,6 +1,6 @@
 {
   "name": "bib-finder",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "main": "./lib/bib-finder",
   "description": "Fuzzy finder BibTeX entries for Atom IDE",
   "activationCommands": {
