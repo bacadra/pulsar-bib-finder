@@ -13,7 +13,7 @@ Package can be used in any language scope, so it work fine in LaTeX document, py
 * bib-parser (@hygull/bibtex) do not work correctly if there is only one entry in file.
 * bib-parser (@hygull/bibtex) can not read entry if parameter is multiline.
 
-## See my another packages...
+# See also
 
 * [bacadra-atom](https://github.com/bacadra/bacadra-atom)
 * [bib-finder](https://github.com/bacadra/bib-finder)
