@@ -3,11 +3,6 @@
   "version": "0.2.11",
   "main": "./lib/bib-finder",
   "description": "Fuzzy finder BibTeX entries for Atom IDE",
-  "activationCommands": {
-    "atom-text-editor": [
-      "bib-finder:insert-cite"
-    ]
-  },
   "dependencies": {
     "@hygull/bibtex": "^1.1.23",
     "atom-select-list": "^0.7.2",
