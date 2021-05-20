@@ -2,7 +2,7 @@
   "name": "bib-finder",
   "version": "0.2.13",
   "main": "./lib/bib-finder",
-  "description": "Fuzzy finder BibTeX entries for Atom IDE",
+  "description": "Fuzzy finder of BibTeX entries in user files",
   "dependencies": {
     "@hygull/bibtex": "^1.1.23",
     "atom-select-list": "^0.7.2",
@@ -13,9 +13,12 @@
   "url": "https://github.com/bacadra/bib-finder",
   "repository": "https://github.com/bacadra/bib-finder",
   "keywords": [
-    "python",
     "bacadra",
-    "bib",
-    "find"
+    "bibtex",
+    "find",
+    "bibliography",
+    "latex",
+    "tex",
+    "cite"
   ]
 }
