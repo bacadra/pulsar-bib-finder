@@ -8,7 +8,7 @@ If you find entry you want, then you can press:
 
 Package can be used in any scope, so it work fine in any file e.g. LaTeX, Python (like PyLaTeX).
 
-![demo-1](demo-1.gif)
+![demo-1](https://github.com/bacadra/bib-finder/blob/master/demo-1.gif?raw=true)
 
 
 # Issues
