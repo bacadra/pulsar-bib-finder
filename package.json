@@ -1,6 +1,6 @@
 {
   "name": "bib-finder",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "main": "./lib/bib-finder",
   "description": "Fuzzy finder of BibTeX entries in user files",
   "dependencies": {
