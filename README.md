@@ -36,9 +36,3 @@ The example content of the bibliography file::
     }
 
 Save it on the disk and paste absolute path to the file into this package settings. Then open `command-palette` (default `ctrl-shift-p`), find command `bib-finder:insert-cite`, then lookup for entry you want insert and press `enter`, `alt-enter` or `ctrl-enter`.
-
-
-# Issues
-
-* bib-parser (@hygull/bibtex) do not work correctly if there is only one entry in file.
-* bib-parser (@hygull/bibtex) can not read entry if parameter is multiline.

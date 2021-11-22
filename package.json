@@ -4,8 +4,8 @@
   "main": "./lib/bib-finder",
   "description": "Fuzzy finder of BibTeX entries in user files",
   "dependencies": {
-    "@hygull/bibtex": "^1.1.23",
     "atom-select-list": "^0.7.2",
+    "bibtex-parse": "^2.1.0",
     "fuzzaldrin": "^2.1.0",
     "fuzzaldrin-plus": "^0.6.0",
     "glob": "^7.1.7"
@@ -15,11 +15,13 @@
   "repository": "https://github.com/bacadra/atom-bib-finder",
   "keywords": [
     "bacadra",
-    "bibtex",
-    "find",
-    "bibliography",
-    "latex",
     "tex",
+    "latex",
+    "bibliography",
+    "bib",
+    "bibtex",
+    "biblatex",
+    "find",
     "cite",
     "python"
   ],
