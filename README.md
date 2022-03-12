@@ -13,6 +13,8 @@ Package can be used in any scope, so it work fine in any file e.g. LaTeX, Python
 
 The package requires a bibliography file in the BibTeX system to work properly. This file should be created by the user and then the path to it should be entered in the settings of this package. At the moment the package supports up to 5 bibliography sources.
 
+Config options `Preserve last search` and `Use alternate scoring` are used from `command-palette` package.
+
 
 # Example
 
