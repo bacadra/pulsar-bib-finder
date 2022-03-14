@@ -25,5 +25,22 @@
     "cite",
     "python"
   ],
+  "activationCommands": {
+    "atom-workspace": [
+      "bib-finder:open-source-1",
+      "bib-finder:open-source-2",
+      "bib-finder:open-source-3",
+      "bib-finder:open-source-4",
+      "bib-finder:open-source-5"
+    ],
+    "atom-text-editor": [
+      "bib-finder:insert-cite",
+      "bib-finder:insert-cite-from-source-1",
+      "bib-finder:insert-cite-from-source-2",
+      "bib-finder:insert-cite-from-source-3",
+      "bib-finder:insert-cite-from-source-4",
+      "bib-finder:insert-cite-from-source-5"
+    ]
+  },
   "license": "GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007"
 }
