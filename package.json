@@ -31,15 +31,14 @@
       "bib-finder:open-source-2",
       "bib-finder:open-source-3",
       "bib-finder:open-source-4",
-      "bib-finder:open-source-5"
-    ],
-    "atom-text-editor": [
-      "bib-finder:insert-cite",
-      "bib-finder:insert-cite-from-source-1",
-      "bib-finder:insert-cite-from-source-2",
-      "bib-finder:insert-cite-from-source-3",
-      "bib-finder:insert-cite-from-source-4",
-      "bib-finder:insert-cite-from-source-5"
+      "bib-finder:open-source-5",
+      "bib-finder:cache",
+      "bib-finder:cite",
+      "bib-finder:cite-from-source-1",
+      "bib-finder:cite-from-source-2",
+      "bib-finder:cite-from-source-3",
+      "bib-finder:cite-from-source-4",
+      "bib-finder:cite-from-source-5"
     ]
   },
   "license": "GPL-3.0-or-later"

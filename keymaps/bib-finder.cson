@@ -1,5 +1,5 @@
 'atom-text-editor':
-  'ctrl-f9': 'bib-finder:insert-cite'
+  'ctrl-f9': 'bib-finder:cite'
 
 '.bib-finder atom-text-editor[mini]':
   'enter'     : 'bib-finder:name'
