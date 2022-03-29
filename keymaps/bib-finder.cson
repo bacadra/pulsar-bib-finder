@@ -2,5 +2,6 @@
   'ctrl-f9': 'bib-finder:toggle'
 
 '.bib-finder atom-text-editor[mini]':
-  'alt-enter' : 'bib-finder:alt-select'
-  'ctrl-enter': 'bib-finder:ctrl-select'
+  'enter'     : 'bib-finder:name'
+  'alt-enter' : 'bib-finder:cite'
+  'ctrl-enter': 'bib-finder:opti'
