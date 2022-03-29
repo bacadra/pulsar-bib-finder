@@ -2,6 +2,6 @@
   'ctrl-f9': 'bib-finder:cite'
 
 '.bib-finder atom-text-editor[mini]':
-  'enter'     : 'bib-finder:name'
-  'alt-enter' : 'bib-finder:cite'
-  'ctrl-enter': 'bib-finder:opti'
+  'enter'     : 'bib-finder:insert-name'
+  'alt-enter' : 'bib-finder:insert-cite'
+  'ctrl-enter': 'bib-finder:insert-opti'
