@@ -8,9 +8,9 @@ The package help to find and insert bibliography key. Multiple `.bib` files can 
 
 After the announcement of Atoms sunset, the official [Atom packages store](https://atom.io/packages) isn't respond properly, so latest version of this package cannot be downloaded there. To get latest version run the shell command
 
-        apm install bacadra/atom-bib-finder
+    apm install bacadra/atom-bib-finder
 
-    and obtain the package directly from Github repository. Please note that package will occur in `Settings/Packages/Git Packages` instead of `Community Packages`.
+and obtain the package directly from Github repository. Please note that package will occur in `Settings/Packages/Git Packages` instead of `Community Packages`.
 
 ## Usage
 
@@ -49,8 +49,8 @@ The example content of the bibliography file::
 
 If you have ideas on how to improve the package, see bugs or want to support new features, feel free to share them via GitHub.
 
-    See my other packages dedicated to Atom Editor:
-    
+See my other packages dedicated to Atom Editor:
+
 * [autocomplete-sofistik](https://github.com/bacadra/atom-autocomplete-sofistik)
 * [bib-finder](https://github.com/bacadra/atom-bib-finder)
 * [hydrogen-run](https://github.com/bacadra/atom-hydrogen-run)
