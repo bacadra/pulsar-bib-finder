@@ -1,5 +1,10 @@
 # bib-finder
 
+![Tag](https://img.shields.io/github/v/tag/bacadra/atom-bib-finder?style=for-the-badge)
+![LastCommit](https://img.shields.io/github/last-commit/bacadra/atom-bib-finder?style=for-the-badge)
+![RepoSize](https://img.shields.io/github/repo-size/bacadra/atom-bib-finder?style=for-the-badge)
+![Licence](https://img.shields.io/github/license/bacadra/atom-bib-finder?style=for-the-badge)
+
 ![bib-finder](https://github.com/bacadra/bib-finder/blob/master/assets/bib-finder.gif?raw=true)
 
 The package help to find and insert bibliography key. Multiple `.bib` files can be used. The fuzzy-finder is used to look up entry. Package can be used in any scope, so it work fine in any file e.g. LaTeX, Python (like PyLaTeX).
