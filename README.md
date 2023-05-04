@@ -6,15 +6,21 @@ The package help to find and insert bibliography key. Multiple `.bib` files can 
 
 ## Installation
 
-The official [Atom packages store](https://atom.io/packages) has been disabled. To get latest version run the shell command
+### Atom Text Editor
+
+The official Atom packages store has been disabled. To get latest version run the shell command
 
     apm install bacadra/atom-bib-finder
 
 and obtain the package directly from Github repository.
 
+### Pulsar Text Editor
+
 The package has compability with [Pulsar](https://pulsar-edit.dev/) and can be install
 
     pulsar -p install bacadra/atom-bib-finder
+
+or directly [bib-finder](https://web.pulsar-edit.dev/packages/bib-finder) from Pulsar package store.
 
 ## Usage
 
@@ -53,13 +59,14 @@ The example content of the bibliography file::
 
 If you have ideas on how to improve the package, see bugs or want to support new features - feel free to share it via GitHub.
 
-See my other packages for Atom Editor:
+See my other packages for Atom & Pulsar Text Editors:
 
 * [autocomplete-sofistik](https://github.com/bacadra/atom-autocomplete-sofistik)
 * [bib-finder](https://github.com/bacadra/atom-bib-finder)
 * [hydrogen-run](https://github.com/bacadra/atom-hydrogen-run)
 * [image-paste](https://github.com/bacadra/atom-image-paste)
 * [language-sofistik](https://github.com/bacadra/atom-language-sofistik)
+* [linter-ruff](https://github.com/bacadra/atom-linter-ruff)
 * [navigation-panel](https://github.com/bacadra/atom-navigation-panel)
 * [open-external](https://github.com/bacadra/atom-open-external)
 * [pdf-viewer](https://github.com/bacadra/atom-pdf-viewer)
