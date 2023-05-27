@@ -1,7 +1,7 @@
 {
   "name": "bib-finder",
   "version": "0.5.16",
-  "main": "./lib/bib-finder",
+  "main": "./lib/main",
   "description": "Fuzzy finder of BibTeX entries in user files",
   "dependencies": {
     "atom-select-list": "^0.7.2",
