@@ -26,6 +26,13 @@
     "cite",
     "python"
   ],
+  "consumedServices": {
+    "file-icons.element-icons": {
+      "versions": {
+        "1.0.0": "consumeElementIcons"
+      }
+    }
+  },
   "activationCommands": {
     "atom-workspace": [
       "bib-finder:open-source-1",
