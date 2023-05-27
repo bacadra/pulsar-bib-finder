@@ -42,6 +42,7 @@
       "bib-finder:open-source-5",
       "bib-finder:cache",
       "bib-finder:cite",
+      "bib-finder:cite-from-local",
       "bib-finder:cite-from-source-1",
       "bib-finder:cite-from-source-2",
       "bib-finder:cite-from-source-3",

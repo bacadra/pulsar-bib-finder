@@ -49,6 +49,8 @@ If you find entry you want, then you can press:
 * `Alt-Enter` to insert `\cite{<key>}`.
 * `Ctrl-Enter` to insert `\cite[]{<key>}`.
 
+The special character `@` can be used for search by type or `#` for search by key.
+
 ## Example of `.bib`
 
 The example content of the bibliography file::
