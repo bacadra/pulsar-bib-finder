@@ -17,7 +17,7 @@
 
 ![bib-finder](https://github.com/bacadra/bib-finder/blob/master/assets/bib-finder.gif?raw=true)
 
-The package help to find and insert bibliography key. Multiple `.bib` files can be used. The fuzzy-finder is used to look up entry. Package can be used in any scope, so it work fine in any file e.g. LaTeX, Python (like PyLaTeX).
+The package helps to find and insert bibliography keys. It supports multiple `.bib` files and utilizes fuzzy-finder for searching entries. The package can be used in any scope, making it suitable for files like LaTeX or Python (e.g., PyLaTeX).
 
 ## Installation
 
@@ -43,38 +43,40 @@ Alternatively, you can directly install [bib-finder](https://web.pulsar-edit.dev
 
 ## Usage
 
-The package requires a bibliography file in the BibTeX format `.bib`. This file need to be created and maintained by the user. To use it there are two ways:
+To use the package, you need a bibliography file in BibTeX format (`.bib`). This file should be created and maintained by the user. There are two ways to use it:
 
-* globally - you need write file path in package settings,
-* locally - copy file to project directory. `bibLocal` flag must be ticked ON.
+* Globally: You can specify the file path in the package settings.
+* Locally: You can copy the file to the project directory and enable the `bibLocal` flag.
 
-If you find entry you want, then you can press:
+Once you find the entry you want, you can press:
 * `Enter` to insert `<key>`
-* `Alt-Enter` to insert `\cite{<key>}`.
-* `Ctrl-Enter` to insert `\cite[]{<key>}`.
+* `Alt-Enter` to insert `\cite{<key>}`
+* `Ctrl-Enter` to insert `\cite[]{<key>}`
 
-The special character `@` can be used for search by type or `#` for search by key.
+You can use the special character `@` for searching by type or `#` for searching by key.
 
-## Example of `.bib`
+## Example of `.bib` file
 
-The example content of the bibliography file::
+Here's an example of the content in a bibliography file:
 
-    @book{fhck07,
-      author    = "Hartmann, Friedel and Katz, Casimir",
-      title     = "Structural Analysis with Finite Elements",
-      publisher = "Springer-Verlag Berlin Heidelberg",
-      address   = "Germany",
-      year      = "2007",
-      ISBN      = "10-3-540-49698",
-    }
+```bib
+@book{fhck07,
+  author    = "Hartmann, Friedel and Katz, Casimir",
+  title     = "Structural Analysis with Finite Elements",
+  publisher = "Springer-Verlag Berlin Heidelberg",
+  address   = "Germany",
+  year      = "2007",
+  ISBN      = "10-3-540-49698",
+}
 
-    @book{stng51,
-      author    = "S. Timoshenko and J. N. Goodier",
-      title     = "Theory of elasticity",
-      publisher = "{McGRAW-HILL BOOK Company Inc.}",
-      address   = "New York, Toronto, London",
-      year      = "1951",
-    }
+@book{stng51,
+  author    = "S. Timoshenko and J. N. Goodier",
+  title     = "Theory of elasticity",
+  publisher = "{McGRAW-HILL BOOK Company Inc.}",
+  address   = "New York, Toronto, London",
+  year      = "1951",
+}
+```
 
 # Contributing [🍺](https://www.buymeacoffee.com/asiloisad)
 
