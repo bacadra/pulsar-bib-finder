@@ -1,17 +1,17 @@
 # bib-finder
 
 <p align="center">
-  <a href="https://github.com/bacadra/atom-bib-finder/tags">
-  <img src="https://img.shields.io/github/v/tag/bacadra/atom-bib-finder?style=for-the-badge&label=Latest&color=blue" alt="Latest">
+  <a href="https://github.com/bacadra/pulsar-bib-finder/tags">
+  <img src="https://img.shields.io/github/v/tag/bacadra/pulsar-bib-finder?style=for-the-badge&label=Latest&color=blue" alt="Latest">
   </a>
-  <a href="https://github.com/bacadra/atom-bib-finder/issues">
-  <img src="https://img.shields.io/github/issues-raw/bacadra/atom-bib-finder?style=for-the-badge&color=blue" alt="OpenIssues">
+  <a href="https://github.com/bacadra/pulsar-bib-finder/issues">
+  <img src="https://img.shields.io/github/issues-raw/bacadra/pulsar-bib-finder?style=for-the-badge&color=blue" alt="OpenIssues">
   </a>
-  <a href="https://github.com/bacadra/atom-bib-finder/blob/master/package.json">
-  <img src="https://img.shields.io/github/languages/top/bacadra/atom-bib-finder?style=for-the-badge&color=blue" alt="Language">
+  <a href="https://github.com/bacadra/pulsar-bib-finder/blob/master/package.json">
+  <img src="https://img.shields.io/github/languages/top/bacadra/pulsar-bib-finder?style=for-the-badge&color=blue" alt="Language">
   </a>
-  <a href="https://github.com/bacadra/atom-bib-finder/blob/master/LICENSE">
-  <img src="https://img.shields.io/github/license/bacadra/atom-bib-finder?style=for-the-badge&color=blue" alt="Licence">
+  <a href="https://github.com/bacadra/pulsar-bib-finder/blob/master/LICENSE">
+  <img src="https://img.shields.io/github/license/bacadra/pulsar-bib-finder?style=for-the-badge&color=blue" alt="Licence">
   </a>
 </p>
 
@@ -21,25 +21,9 @@ The package helps to find and insert bibliography keys. It supports multiple `.b
 
 ## Installation
 
-### Atom Text Editor
+To install `bib-finder` search for [bib-finder](https://web.pulsar-edit.dev/packages/bib-finder) in the Install pane of the Pulsar settings or run `ppm install bib-finder`.
 
-The official Atom packages store has been [disabled](https://github.blog/2022-06-08-sunsetting-atom/). To obtain the latest version, please run the following shell command:
-
-```shell
-apm install bacadra/atom-bib-finder
-```
-
-This will allow you to directly download the package from the GitHub repository.
-
-### Pulsar Text Editor
-
-The package is compatible with [Pulsar](https://pulsar-edit.dev/) and can be installed using the following command:
-
-```shell
-ppm install bacadra/atom-bib-finder
-```
-
-Alternatively, you can directly install [bib-finder](https://web.pulsar-edit.dev/packages/bib-finder) from the Pulsar package store.
+Alternatively, run `ppm install bacadra/pulsar-bib-finder` to install a package directly from Github repository.
 
 ## Usage
 
