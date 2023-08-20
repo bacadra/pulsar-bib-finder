@@ -1,7 +1,7 @@
 'atom-text-editor':
   'ctrl-f9': 'bib-finder:cite'
 
-'.bib-finder.bib-list atom-text-editor[mini]':
-  'enter'     : 'bib-list:insert-name'
-  'alt-enter' : 'bib-list:insert-cite'
-  'ctrl-enter': 'bib-list:insert-opti'
+'.bib-finder atom-text-editor[mini]':
+  'enter'     : 'select-list:name'
+  'alt-enter' : 'select-list:cite'
+  'ctrl-enter': 'select-list:opti'
