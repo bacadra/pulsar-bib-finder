@@ -27,10 +27,10 @@ Alternatively, run `ppm install bacadra/pulsar-bib-finder` to install a package 
 
 ## Usage
 
-To use the package, you need a bibliography file in BibTeX format (`.bib`). This file should be created and maintained by the user. There are two ways to use it:
+To use the package, you need a bibliography file in BibTeX format `.bib`. This file should be created and maintained by the user. There are two ways to use it:
 
-* Globally: You can specify the file path in the package settings.
-* Locally: You can copy the file to the project directory and enable the `bibLocal` flag.
+* global: You can specify the file path in the package settings.
+* local: You can copy the file to the project directory and enable the `bib-finder.bibLocal` flag.
 
 Once you find the entry you want, you can press:
 * `Enter` to insert `<key>`
