@@ -45,7 +45,12 @@
       "bib-finder:cite-from-source-3",
       "bib-finder:cite-from-source-4",
       "bib-finder:cite-from-source-5",
-      "bib-finder:cache"
+      "bib-finder:cache",
+      "bib-finder:open-source-1",
+      "bib-finder:open-source-2",
+      "bib-finder:open-source-3",
+      "bib-finder:open-source-4",
+      "bib-finder:open-source-5"
     ]
   },
   "license": "MIT"
