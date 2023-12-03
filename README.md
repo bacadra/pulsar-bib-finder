@@ -21,9 +21,7 @@ The package helps to find and insert bibliography keys. It supports multiple `.b
 
 ## Installation
 
-To install `bib-finder` search for [bib-finder](https://web.pulsar-edit.dev/packages/bib-finder) in the Install pane of the Pulsar settings or run `ppm install bib-finder`.
-
-Alternatively, you can run `ppm install bacadra/pulsar-bib-finder` to install a package directly from the Github repository.
+To install `bib-finder` search for [bib-finder](https://web.pulsar-edit.dev/packages/bib-finder) in the Install pane of the Pulsar settings or run `ppm install bib-finder`. Alternatively, you can run `ppm install bacadra/pulsar-bib-finder` to install a package directly from the Github repository.
 
 ## Usage
 
