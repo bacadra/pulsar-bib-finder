@@ -8,8 +8,7 @@
     "bibtex-parse": "^2.1.0",
     "diacritic": "0.0.2",
     "etch": "^0.14.1",
-    "glob": "^10.3.3",
-    "zadeh": "^3.0.0-beta.4"
+    "glob": "^10.3.3"
   },
   "engines": {
     "atom": ">=1.100.0 <2.0.0"
