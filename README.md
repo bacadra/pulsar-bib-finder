@@ -1,20 +1,5 @@
 # bib-finder
 
-<p align="center">
-  <a href="https://github.com/bacadra/pulsar-bib-finder/tags">
-  <img src="https://img.shields.io/github/v/tag/bacadra/pulsar-bib-finder?style=for-the-badge&label=Latest&color=blue" alt="Latest">
-  </a>
-  <a href="https://github.com/bacadra/pulsar-bib-finder/issues">
-  <img src="https://img.shields.io/github/issues-raw/bacadra/pulsar-bib-finder?style=for-the-badge&color=blue" alt="OpenIssues">
-  </a>
-  <a href="https://github.com/bacadra/pulsar-bib-finder/blob/master/package.json">
-  <img src="https://img.shields.io/github/languages/top/bacadra/pulsar-bib-finder?style=for-the-badge&color=blue" alt="Language">
-  </a>
-  <a href="https://github.com/bacadra/pulsar-bib-finder/blob/master/LICENSE">
-  <img src="https://img.shields.io/github/license/bacadra/pulsar-bib-finder?style=for-the-badge&color=blue" alt="Licence">
-  </a>
-</p>
-
 ![bib-finder](https://github.com/bacadra/bib-finder/blob/master/assets/bib-finder.gif?raw=true)
 
 The package helps to find and insert bibliography keys. It supports multiple `.bib` files and utilizes fuzzy-finder for searching entries. The package can be used in any scope, making it suitable for files like LaTeX or Python (e.g., PyLaTeX).
@@ -60,6 +45,6 @@ Here's an example of the content in a bibliography file:
 }
 ```
 
-# Contributing [🍺](https://www.buymeacoffee.com/asiloisad)
+# Contributing
 
 If you have any ideas on how to improve the package, spot any bugs, or would like to support the development of new features, please feel free to share them via GitHub.
