@@ -1,8 +1,8 @@
 # bib-finder
 
-![bib-finder](https://github.com/bacadra/bib-finder/blob/master/assets/bib-finder.gif?raw=true)
+Find bibliographic keys from your data in list form. A package supports multiple `.bib` files, utilizes fuzzy-finder for searching entries and can be used in any scope.
 
-The package helps to find and insert bibliography keys. It supports multiple `.bib` files and utilizes fuzzy-finder for searching entries. The package can be used in any scope, making it suitable for files like LaTeX or Python (e.g., PyLaTeX).
+![demo](https://github.com/bacadra/bib-finder/blob/master/assets/demo.gif?raw=true)
 
 ## Installation
 
@@ -12,13 +12,13 @@ To install `bib-finder` search for [bib-finder](https://web.pulsar-edit.dev/pack
 
 To use the package, you need a bibliography file in BibTeX format `.bib`. This file should be created and maintained by the user. There are two ways to use it:
 
-* global: You can specify the file path in the package settings.
-* local: You can copy the file to the project directory and enable the `bib-finder.bibLocal` flag.
+- global: You can specify the file path in the package settings.
+- local: You can copy the file to the project directory and enable the `bib-finder.bibLocal` flag.
 
 Once you find the entry you want, you can press:
-* `Enter` to insert `<key>`
-* `Alt-Enter` to insert `\cite{<key>}`
-* `Ctrl-Enter` to insert `\cite[]{<key>}`
+- `Enter` to insert `<key>`
+- `Alt-Enter` to insert `\cite{<key>}`
+- `Ctrl-Enter` to insert `\cite[]{<key>}`
 
 You can use the special character `@` for searching by type or `#` for searching by key.
 
@@ -47,4 +47,4 @@ Here's an example of the content in a bibliography file:
 
 # Contributing
 
-If you have any ideas on how to improve the package, spot any bugs, or would like to support the development of new features, please feel free to share them via GitHub.
+Got ideas to make this package better, found a bug, or want to help add new features? Just drop your thoughts on GitHub — any feedback’s welcome!

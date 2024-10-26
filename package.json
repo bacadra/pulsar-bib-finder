@@ -2,7 +2,7 @@
   "name": "bib-finder",
   "version": "0.6.0",
   "main": "./lib/main",
-  "description": "Fuzzy finder of BibTeX entries in user files",
+  "description": "Find bibliographic keys from your data in list form",
   "dependencies": {
     "atom-select-list": "^0.7.2",
     "bibtex-parse": "^2.1.0",
