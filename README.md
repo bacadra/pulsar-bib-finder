@@ -15,10 +15,12 @@ To use the package, you need a bibliography file in BibTeX format `.bib`. This f
 - global: You can specify the file path in the package settings.
 - local: You can copy the file to the project directory and enable the `bib-finder.bibLocal` flag.
 
-Once you find the entry you want, you can press:
-- `Enter` to insert `<key>`
-- `Alt-Enter` to insert `\cite{<key>}`
-- `Ctrl-Enter` to insert `\cite[]{<key>}`
+In `bib-list` there are available shortcuts:
+
+- `Enter`: insert `<key>`
+- `Alt-Enter`: insert `\cite{<key>}`
+- `Ctrl-Enter`: insert `\cite[]{<key>}`
+- `F5`: manually update list.
 
 You can use the special character `@` for searching by type or `#` for searching by key.
 
