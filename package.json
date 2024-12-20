@@ -1,6 +1,6 @@
 {
   "name": "bib-finder",
-  "version": "0.6.1",
+  "version": "0.7.0",
   "main": "./lib/main",
   "description": "Find bibliographic keys from your data in list form",
   "dependencies": {
