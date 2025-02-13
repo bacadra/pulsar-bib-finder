@@ -1,23 +1,8 @@
 {
   "name": "bib-finder",
-  "version": "0.7.1",
-  "main": "./lib/main",
   "description": "Find bibliographic keys from your data in list form",
-  "dependencies": {
-    "atom-select-list": "^0.7.2",
-    "bibtex-parse": "^2.1.0",
-    "diacritic": "0.0.2",
-    "etch": "^0.14.1",
-    "glob": "^10.3.3"
-  },
-  "engines": {
-    "atom": ">=1.100.0 <2.0.0"
-  },
-  "homepage": "https://github.com/bacadra/pulsar-bib-finder",
-  "url": "https://github.com/bacadra/pulsar-bib-finder",
   "repository": "https://github.com/bacadra/pulsar-bib-finder",
   "keywords": [
-    "bacadra",
     "tex",
     "latex",
     "bibliography",
@@ -28,13 +13,12 @@
     "cite",
     "python"
   ],
-  "consumedServices": {
-    "atom.file-icons": {
-      "versions": {
-        "1.0.0": "consumeClassIcons"
-      }
-    }
+  "version": "0.7.1",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.100.0 <2.0.0"
   },
+  "main": "./lib/main",
   "activationCommands": {
     "atom-workspace": [
       "bib-finder:cite",
@@ -52,5 +36,18 @@
       "bib-finder:open-source-5"
     ]
   },
-  "license": "MIT"
+  "consumedServices": {
+    "atom.file-icons": {
+      "versions": {
+        "1.0.0": "consumeClassIcons"
+      }
+    }
+  },
+  "dependencies": {
+    "atom-select-list": "^0.7.2",
+    "bibtex-parse": "^2.1.0",
+    "diacritic": "0.0.2",
+    "etch": "^0.14.1",
+    "glob": "^10.3.3"
+  }
 }
