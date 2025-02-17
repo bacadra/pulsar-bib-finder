@@ -1,5 +1,6 @@
 'atom-text-editor':
-  'ctrl-f9': 'bib-finder:cite'
+  'f9'     : 'bib-finder:cite'
+  'ctrl-f9': 'bib-finder:open-source-1'
 
 '.bib-finder atom-text-editor[mini]':
   'enter'     : 'select-list:name'
