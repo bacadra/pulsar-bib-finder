@@ -1,7 +1,7 @@
 {
   "name": "bib-finder",
   "description": "Find bibliographic keys from your data in list form",
-  "repository": "https://github.com/bacadra/pulsar-bib-finder",
+  "repository": "https://github.com/asiloisad/pulsar-bib-finder",
   "keywords": [
     "tex",
     "latex",

@@ -2,11 +2,11 @@
 
 Find bibliographic keys from your data in list form. A package supports multiple `.bib` files, utilizes fuzzy-finder for searching entries and can be used in any scope.
 
-![demo](https://github.com/bacadra/bib-finder/blob/master/assets/demo.gif?raw=true)
+![demo](https://github.com/asiloisad/bib-finder/blob/master/assets/demo.gif?raw=true)
 
 ## Installation
 
-To install `bib-finder` search for [bib-finder](https://web.pulsar-edit.dev/packages/bib-finder) in the Install pane of the Pulsar settings or run `ppm install bib-finder`. Alternatively, you can run `ppm install bacadra/pulsar-bib-finder` to install a package directly from the Github repository.
+To install `bib-finder` search for [bib-finder](https://web.pulsar-edit.dev/packages/bib-finder) in the Install pane of the Pulsar settings or run `ppm install bib-finder`. Alternatively, you can run `ppm install asiloisad/pulsar-bib-finder` to install a package directly from the Github repository.
 
 ## Usage
 
